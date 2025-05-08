@@ -61,8 +61,9 @@ I'm a passionate Full Stack Developer with expertise in web development and a sp
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batagor-dev&layout=compact&theme=dracula" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batagor-dev&layout=compact&theme=dracula" height="150" width="600" />
 </div>
+
 
 
 ---
