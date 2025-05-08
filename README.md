@@ -39,7 +39,7 @@ I'm a passionate Full Stack Developer with expertise in web development and a sp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
@@ -58,11 +58,8 @@ I'm a passionate Full Stack Developer with expertise in web development and a sp
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Batagor-dev&show_icons=true&theme=dracula&count_private=true" height="150" />
   <img src="https://streak-stats.demolab.com?user=Batagor-dev&theme=dracula" height="150" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batagor-dev&layout=compact&theme=dracula" height="150" width="600" />
-</div>
+
 
 
 
