@@ -1,6 +1,4 @@
-<div align="center">
-  ![Header](img/gi thub-header-image.png)
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Batagor-dev</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
@@ -59,9 +57,13 @@ I'm a passionate Full Stack Developer with expertise in web development and a sp
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Batagor-dev&show_icons=true&theme=dracula&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batagor-dev&layout=compact&theme=dracula" height="150" />
   <img src="https://streak-stats.demolab.com?user=Batagor-dev&theme=dracula" height="150" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batagor-dev&layout=compact&theme=dracula" height="250" />
+</div>
+
 
 ---
 
@@ -76,11 +78,17 @@ I'm a passionate Full Stack Developer with expertise in web development and a sp
 
 ## 🎵 Currently Listening
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31ctmtjavwpwwfadtojlzyelkiee">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ctmtjavwpwwfadtojlzyelkiee&count=5" alt="Spotify recently played" />
+<div align="left">
+  <p><em>Music speaks where words fail 🎶</em></p>
+  <blockquote>
+    <em>“Through music, we pour out the emotions within us.  
+    Every melody tells a story, every lyric touches the soul.”</em>
+  </blockquote>
+  <a href="https://open.spotify.com/user/31ctmtjavwpwwfadtojlzyelkiee" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ctmtjavwpwwfadtojlzyelkiee&count=1" alt="Spotify recently played" style="border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.25); margin-top:12px;" />
   </a>
 </div>
+
 
 
 ---
